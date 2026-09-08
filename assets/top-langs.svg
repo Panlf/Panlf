@@ -1,0 +1,38 @@
+<svg width="340" height="195" viewBox="0 0 340 195" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
+<defs><linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0EA5E9"/><stop offset="50%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#EC4899"/></linearGradient></defs>
+<rect width="340" height="195" rx="14" fill="#14131F"/>
+<rect x="1" y="1" width="338" height="193" rx="13" fill="none" stroke="rgba(139,92,246,0.35)"/>
+<text x="30" y="38" font-size="14" font-weight="700" fill="#F0F6FC">Top Languages</text>
+<rect x="30" y="47" width="100" height="3" rx="1.5" fill="url(#g2)"/>
+
+<circle cx="34" cy="59" r="4" fill="#b07219"/>
+<text x="45" y="62" font-size="11" fill="#C9D1D9">Java</text>
+<text x="310" y="62" font-size="10" fill="#9CA3AF" text-anchor="end">41.9%</text>
+<rect x="30" y="66" width="220" height="3.5" rx="1.75" fill="#21262D"/>
+<rect x="30" y="66" width="92.13165135801567" height="3.5" rx="1.75" fill="#b07219"/>
+<circle cx="34" cy="80" r="4" fill="#00B4AB"/>
+<text x="45" y="83" font-size="11" fill="#C9D1D9">Dart</text>
+<text x="310" y="83" font-size="10" fill="#9CA3AF" text-anchor="end">18.8%</text>
+<rect x="30" y="87" width="220" height="3.5" rx="1.75" fill="#21262D"/>
+<rect x="30" y="87" width="41.3569150407876" height="3.5" rx="1.75" fill="#00B4AB"/>
+<circle cx="34" cy="101" r="4" fill="#3178c6"/>
+<text x="45" y="104" font-size="11" fill="#C9D1D9">TypeScript</text>
+<text x="310" y="104" font-size="10" fill="#9CA3AF" text-anchor="end">11.4%</text>
+<rect x="30" y="108" width="220" height="3.5" rx="1.75" fill="#21262D"/>
+<rect x="30" y="108" width="24.989106078157732" height="3.5" rx="1.75" fill="#3178c6"/>
+<circle cx="34" cy="122" r="4" fill="#e34c26"/>
+<text x="45" y="125" font-size="11" fill="#C9D1D9">HTML</text>
+<text x="310" y="125" font-size="10" fill="#9CA3AF" text-anchor="end">9.7%</text>
+<rect x="30" y="129" width="220" height="3.5" rx="1.75" fill="#21262D"/>
+<rect x="30" y="129" width="21.3458842988273" height="3.5" rx="1.75" fill="#e34c26"/>
+<circle cx="34" cy="143" r="4" fill="#f1e05a"/>
+<text x="45" y="146" font-size="11" fill="#C9D1D9">JavaScript</text>
+<text x="310" y="146" font-size="10" fill="#9CA3AF" text-anchor="end">6.9%</text>
+<rect x="30" y="150" width="220" height="3.5" rx="1.75" fill="#21262D"/>
+<rect x="30" y="150" width="15.137571108455788" height="3.5" rx="1.75" fill="#f1e05a"/>
+<circle cx="34" cy="164" r="4" fill="#563d7c"/>
+<text x="45" y="167" font-size="11" fill="#C9D1D9">CSS</text>
+<text x="310" y="167" font-size="10" fill="#9CA3AF" text-anchor="end">3.3%</text>
+<rect x="30" y="171" width="220" height="3.5" rx="1.75" fill="#21262D"/>
+<rect x="30" y="171" width="7.3043700345698825" height="3.5" rx="1.75" fill="#563d7c"/>
+</svg>

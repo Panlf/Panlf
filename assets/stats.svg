@@ -1,0 +1,21 @@
+<svg width="500" height="195" viewBox="0 0 500 195" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
+<defs><linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0EA5E9"/><stop offset="50%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#EC4899"/></linearGradient></defs>
+<rect width="500" height="195" rx="14" fill="#14131F"/>
+<rect x="1" y="1" width="498" height="193" rx="13" fill="none" stroke="rgba(139,92,246,0.35)"/>
+<text x="32" y="42" font-size="16" font-weight="700" fill="#F0F6FC">Panlf's GitHub Stats</text>
+<rect x="32" y="52" width="120" height="3" rx="1.5" fill="url(#g1)"/>
+
+<text x="40" y="52" font-size="13" fill="#EC4899">★</text>
+<text x="40" y="78" font-size="22" font-weight="700" fill="#F0F6FC">4</text>
+<text x="40" y="96" font-size="10.5" fill="#9CA3AF">Total Stars</text>
+<text x="275" y="52" font-size="13" fill="#8B5CF6">❖</text>
+<text x="275" y="78" font-size="22" font-weight="700" fill="#F0F6FC">159</text>
+<text x="275" y="96" font-size="10.5" fill="#9CA3AF">Contributions (1y)</text>
+<text x="40" y="124" font-size="13" fill="#06B6D4">▣</text>
+<text x="40" y="150" font-size="22" font-weight="700" fill="#F0F6FC">13</text>
+<text x="40" y="168" font-size="10.5" fill="#9CA3AF">Public Repos</text>
+<text x="275" y="124" font-size="13" fill="#F59E0B">◈</text>
+<text x="275" y="150" font-size="22" font-weight="700" fill="#F0F6FC">14</text>
+<text x="275" y="168" font-size="10.5" fill="#9CA3AF">Followers</text>
+<text x="32" y="179" font-size="10" fill="#6B7280">Coding since 2016 · 10 Years on GitHub · 100% Open Source</text>
+</svg>

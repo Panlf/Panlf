@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=280&section=header&text=Panlf&fontSize=96&fontColor=ffffff&fontAlignY=36&desc=Code%20with%20Craft%20%C2%B7%20Ship%20with%20Grace&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="banner"/>
+<img src="assets/banner-header.svg" width="100%" alt="banner"/>
 
-<a href="https://panlf.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=760&lines=Java+%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88+%C2%B7+%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B;JUC+%E5%B9%B6%E5%8F%91+%C2%B7+JVM+%C2%B7+NIO+%C2%B7+%E5%AD%97%E8%8A%82%E7%A0%81;Tauri+%C2%B7+Flutter+%C2%B7+%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95+%E5%85%A8%E6%A0%88%E5%A4%9A%E7%AB%AF%E9%80%A0%E7%89%A9%E8%80%85;Local-first+%C2%B7+%E6%95%B0%E6%8D%AE%E8%87%AA%E4%B8%BB+%E4%BF%A1%E4%BB%B0%E8%B7%B5%E8%A1%8C%E8%80%85;The+best+preparation+for+tomorrow+is+doing+your+best+today." alt="Typing SVG"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=760&lines=Java+%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88+%C2%B7+%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B;JUC+%E5%B9%B6%E5%8F%91+%C2%B7+JVM+%C2%B7+NIO+%C2%B7+%E5%AD%97%E8%8A%82%E7%A0%81;Tauri+%C2%B7+Flutter+%C2%B7+%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95+%E5%85%A8%E6%A0%88%E5%A4%9A%E7%AB%AF%E9%80%A0%E7%89%A9%E8%80%85;Local-first+%C2%B7+%E6%95%B0%E6%8D%AE%E8%87%AA%E4%B8%BB+%E4%BF%A1%E4%BB%B0%E8%B7%B5%E8%A1%8C%E8%80%85;The+best+preparation+for+tomorrow+is+doing+your+best+today." alt="Typing SVG"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Panlf&style=for-the-badge&color=blueviolet&abbreviated=true" alt="Profile Views"/>
@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,50:d946ef,100:06b6d4&height=2" width="60%" alt="divider"/>
+<img src="assets/divider.svg" width="60%" alt="divider"/>
 </div>
 
 ## 🧭 About Me
@@ -32,11 +32,11 @@
 - 🔭 **后端深耕**：JUC 并发、NIO、JVM 与字节码、Netty 高性能网络编程
 - 🌱 **跨界造物**：Tauri 2 桌面应用 / Flutter 移动端 / Chrome 扩展 / Svelte & Vue
 - 🛠 **工程效率**：Java 工具库、运维工作台、开发脚手架，把重复劳动自动化到底
-- ✍️ **持续输出**：踩坑笔记沉淀在 [DevArchive](https://github.com/Panlf/DevArchive)，文章发布于 [Blog](https://panlf.github.io)
+- ✍️ **持续输出**：踩坑方案与实操教程沉淀在 [DevArchive](https://github.com/Panlf/DevArchive)
 - ⚡ **信条**：*The best preparation for tomorrow is doing your best today.*
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,50:d946ef,100:06b6d4&height=2" width="60%" alt="divider"/>
+<img src="assets/divider.svg" width="60%" alt="divider"/>
 </div>
 
 ## ⚡ Tech Stack
@@ -70,19 +70,19 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,50:d946ef,100:06b6d4&height=2" width="60%" alt="divider"/>
+<img src="assets/divider.svg" width="60%" alt="divider"/>
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Panlf/prompt-manage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Panlf&repo=prompt-manage&theme=radical&hide_border=true" alt="prompt-manage"/></a>
-<a href="https://github.com/Panlf/SuperCapture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Panlf&repo=SuperCapture&theme=radical&hide_border=true" alt="SuperCapture"/></a>
-<a href="https://github.com/Panlf/Loadout"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Panlf&repo=Loadout&theme=radical&hide_border=true" alt="Loadout"/></a>
-<a href="https://github.com/Panlf/netty-nexus-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Panlf&repo=netty-nexus-platform&theme=radical&hide_border=true" alt="netty-nexus-platform"/></a>
-<a href="https://github.com/Panlf/Pebble"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Panlf&repo=Pebble&theme=radical&hide_border=true" alt="Pebble"/></a>
-<a href="https://github.com/Panlf/labs-java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Panlf&repo=labs-java&theme=radical&hide_border=true" alt="labs-java"/></a>
+<a href="https://github.com/Panlf/prompt-manage"><img src="assets/pin-prompt-manage.svg" alt="prompt-manage"/></a>
+<a href="https://github.com/Panlf/SuperCapture"><img src="assets/pin-SuperCapture.svg" alt="SuperCapture"/></a>
+<a href="https://github.com/Panlf/Loadout"><img src="assets/pin-Loadout.svg" alt="Loadout"/></a>
+<a href="https://github.com/Panlf/netty-nexus-platform"><img src="assets/pin-netty-nexus-platform.svg" alt="netty-nexus-platform"/></a>
+<a href="https://github.com/Panlf/Pebble"><img src="assets/pin-Pebble.svg" alt="Pebble"/></a>
+<a href="https://github.com/Panlf/labs-java"><img src="assets/pin-labs-java.svg" alt="labs-java"/></a>
 
 </div>
 
@@ -102,26 +102,30 @@
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,50:d946ef,100:06b6d4&height=2" width="60%" alt="divider"/>
+<img src="assets/divider.svg" width="60%" alt="divider"/>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Panlf&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="assets/stats.svg" height="165" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com?user=Panlf&theme=radical&hide_border=true&locale=zh_HANS" height="165" alt="GitHub Streak"/>
+<img src="assets/top-langs.svg" height="165" alt="Top Langs"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panlf&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" height="165" alt="Top Langs"/>
+<p>
+  <img src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Arctic Code Vault Contributor"/>
+  <img src="https://img.shields.io/badge/%E2%AD%90_Starstruck-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Starstruck"/>
+  <img src="https://img.shields.io/badge/10%2B_Years_on_GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="10+ Years on GitHub"/>
+  <img src="https://img.shields.io/badge/13_Public_Repos-06B6D4?style=for-the-badge&logo=git&logoColor=white" alt="13 Public Repos"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Panlf&theme=radical&no-frame=true&row=1&column=6&margin-w=8&title=Commit,Repo,PR,Issue" width="100%" alt="Trophy"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Panlf&hide_border=true&bg_color=0d1117&color=9CA3AF&line=8b5cf6&point=ec4899&area=true&area_color=8b5cf6" width="100%" alt="Activity Graph"/>
+<img src="assets/activity-graph.svg" width="100%" alt="Activity Graph"/>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,50:d946ef,100:06b6d4&height=2" width="60%" alt="divider"/>
+<img src="assets/divider.svg" width="60%" alt="divider"/>
 </div>
 
 ## 🐍 Contribution Snake
@@ -137,21 +141,21 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,50:d946ef,100:06b6d4&height=2" width="60%" alt="divider"/>
+<img src="assets/divider.svg" width="60%" alt="divider"/>
 </div>
 
 ## 🌐 Connect with Me
 
 <div align="center">
 
-<a href="https://panlf.github.io"><img src="https://img.shields.io/badge/Blog-panlf.github.io-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/></a>
 <a href="https://github.com/Panlf"><img src="https://img.shields.io/badge/GitHub-%40Panlf-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Panlf/DevArchive"><img src="https://img.shields.io/badge/%F0%9F%93%9A_DevArchive-%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0%E5%BA%93-8b5cf6?style=for-the-badge&logo=gitbook&logoColor=white" alt="DevArchive"/></a>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:0ea5e9&height=150&section=footer&text=Keep%20Coding%20%C2%B7%20Keep%20Running%20%F0%9F%8F%83&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="footer"/>
+<img src="assets/banner-footer.svg" width="100%" alt="footer"/>
 
 *「 The best preparation for tomorrow is doing your best today. 」*
 

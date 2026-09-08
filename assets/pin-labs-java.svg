@@ -1,0 +1,18 @@
+<svg width="400" height="112" viewBox="0 0 400 112" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
+<defs><linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0EA5E9"/><stop offset="50%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#EC4899"/></linearGradient></defs>
+<rect width="400" height="112" rx="12" fill="#14131F"/>
+<rect x="1" y="1" width="398" height="110" rx="11" fill="none" stroke="rgba(139,92,246,0.35)"/>
+<rect x="0" y="0" width="4" height="112" rx="2" fill="url(#g3)"/>
+<g transform="translate(22,26)">
+  <path d="M0 3 h10 v9 h-10 z M0 3 l2 -3 h6 l2 3" fill="none" stroke="#EC4899" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="17" y="11" font-size="13.5" font-weight="700" fill="#EC4899">labs-java</text>
+  <rect x="344" y="0" width="34" height="15" rx="7.5" fill="rgba(139,92,246,0.18)"/><text x="361" y="11" font-size="9" fill="#8B5CF6" text-anchor="middle">MIT</text>
+</g>
+<text x="22" y="48" font-size="11" fill="#C9D1D9">🧪 Java Labs: 我的 Java 学习实验室 | 涵盖算法实现、JU</text><text x="22" y="64" font-size="11" fill="#C9D1D9">C 并发编程、NIO 模型、设计模式、JVM 原理、字节码操…</text>
+<g font-size="10.5" fill="#9CA3AF">
+  <circle cx="26" cy="95" r="4" fill="#b07219"/>
+  <text x="36" y="98">Java</text>
+  <text x="378" y="98" text-anchor="end" fill="#E3B341">★ 0</text>
+  <text x="326" y="98" text-anchor="end">⑂ 0</text>
+</g>
+</svg>
